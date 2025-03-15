@@ -1,7 +1,40 @@
-                    GNU GENERAL PUBLIC LICENSE
+# **Partial Open-Source License**
+
+This project contains files under both **GNU GPL v3** and a **Commercial License**.
+
+## **License Overview**
+
+-   Files in the `GNU` directory are released under **GNU GPL v3**.
+-   Files outside the `GNU` directory are subject to a **Commercial License** with specific restrictions.
+
+## **Files and Licensing**
+
+### 🔓 **GNU GPL v3 Licensed Files**
+
+All files placed in the `GNU/` directory are licensed under the **GNU General Public License v3**.  
+(_For full terms, see the GNU GPL v3 license document attached in this repository._)
+
+### 🔒 **Commercially Licensed Files**
+
+All files **outside** the `GNU/` directory are covered under the following terms:
+
+#### **Usage Restrictions**
+
+✔ **Personal use (e.g., school, private projects) is allowed**, but the author must be credited.  
+❌ **Commercial use is strictly prohibited** without explicit written permission.  
+❌ **No distribution of these files** in any form.  
+❌ **No patents or sublicensing rights** are granted.
+
+## **Additional Information**
+
+By using this repository, you agree to these terms. For commercial use, licensing inquiries, or special permissions, please contact the author using email.
+ warturcio@gmail.com
+
+## **GNU V3 LICENSE OF /GNU FILES:**
+                  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Copyright (C) 2007 Free Software Foundation, Inc. <[https://fsf.org/](https://fsf.org/)>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -645,7 +678,7 @@ the "copyright" line and a pointer to where the full notice is found.
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    along with this program.  If not, see <[https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)>.
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -664,11 +697,11 @@ might be different; for a GUI interface, you would use an "about box".
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
-<https://www.gnu.org/licenses/>.
+<[https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)>.
 
   The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.
+<[https://www.gnu.org/licenses/why-not-lgpl.html](https://www.gnu.org/licenses/why-not-lgpl.html)>.
